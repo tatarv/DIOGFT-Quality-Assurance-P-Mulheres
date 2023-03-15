@@ -1,4 +1,4 @@
-Bootcamp: GFT Quality Assurance Para Mulheres
+# Bootcamp: GFT Quality Assurance Para Mulheres
 
 Módulo: Os fundamentos de qualidade e desenvolvimento de software
 
@@ -6,8 +6,12 @@ Objetivo do Repositório: Entrega de documentos do desafio "O dia a dia de um QA
 
 Documentos a serem entregues:
 
-    Plano de fluxo de trabalho
-    User stories
-    MindMap referente as Users stories
-    Casos de testes utilizando a técnica step-by-step
-    Casos de testes utilizando BDD
+Plano de fluxo de trabalho
+
+User stories
+
+MindMap referente as Users stories
+
+Casos de testes utilizando a técnica step-by-step
+
+Casos de testes utilizando BDD
