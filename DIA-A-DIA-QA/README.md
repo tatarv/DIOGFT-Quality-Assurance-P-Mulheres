@@ -12,6 +12,6 @@ User stories
 
 MindMap referente as Users stories
 
-Casos de testes utilizando a técnica step-by-step
+Casos de testes utilizando a técnica step-by-step referente as Users stories
 
-Casos de testes utilizando BDD
+Casos de testes utilizando BDD referente as Users stories
