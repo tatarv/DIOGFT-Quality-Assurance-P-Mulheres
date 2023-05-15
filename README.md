@@ -10,3 +10,4 @@ Objetivo: Repositório para entrega de todos os desafios do bootcamp GFT Quality
 
 4 - "Exporando o Rest Assured para automação de testes de API"
 
+5 - Exercicios dos codes challenges
