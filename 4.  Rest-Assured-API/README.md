@@ -1,13 +1,11 @@
 ### Bootcamp: GFT Quality Assurance Para Mulheres
 
-Objetivo: Repositório para entrega de todos os desafios do bootcamp GFT Quality Assurance Para Mulheres
+Módulo: Explorando os principais tipos de teste na prática
 
-1 - "O dia a dia de um QA: A prática de testes manuais funcionais"
+Desafio de projeto: "Explorando o Rest Assured Para a Automação de Testes de API"
 
-2 - "Criando seu primeiro repositório no Github para compartilhar seu progresso 
+Objetivo do Repositório: Entrega de documentos/códigos do desafio
 
-3 - "Abstraindo um bootcamp usando orientação a objetos em java" 
+Documentos a serem entregues:
 
-4 - "Exporando o Rest Assured para automação de testes de API"
-
-5 - Exercicios dos codes challenges
+TBD
