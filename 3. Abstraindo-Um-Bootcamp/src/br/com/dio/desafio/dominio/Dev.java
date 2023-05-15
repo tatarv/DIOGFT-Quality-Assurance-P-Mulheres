@@ -6,8 +6,6 @@ public class Dev {
     private String nome;
     private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();
     private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>();
-    private Set<Projeto> entrega = new LinkedHashSet<>();
-
     public String getNome() {
         return nome;
     }
